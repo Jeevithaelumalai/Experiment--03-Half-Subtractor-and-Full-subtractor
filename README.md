@@ -77,7 +77,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/118708245/232360327-351104c0-7a03-4f1f-a961-6959ac1cdb8d.png)
 
 ## Timing diagram:
-
+![image](https://user-images.githubusercontent.com/118708245/232360789-dfb223af-7eac-485d-a5c2-164c862906e4.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
