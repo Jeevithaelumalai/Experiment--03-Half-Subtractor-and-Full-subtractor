@@ -71,8 +71,12 @@ endmodule
 
 ## FULL SUBTRACTOR:
 ## Truthtable:
+![image](https://user-images.githubusercontent.com/118708245/232360290-6e696d64-3b50-48e6-94ca-93dc932be7d2.png)
 
 ##  RTL realization
+![image](https://user-images.githubusercontent.com/118708245/232360327-351104c0-7a03-4f1f-a961-6959ac1cdb8d.png)
+
+## Timing diagram:
 
 
 ## Result:
